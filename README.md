@@ -25,13 +25,14 @@
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&style=flat"></img>
 <img src="https://img.shields.io/badge/-MySQL-000000.svg?logo=mysql&style=flat"></img>
 
-## OS・Engine
+## OS・Engine・Env
 <img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat"></img>
 <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat"></img>
 <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat"></img>
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat"></img>
 <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=flat"></img>
 <img src="https://img.shields.io/badge/-Unity-%23444444?logo=Unity&style=flat"></img>
+<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"></img>
 
 ## Others
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/></img>
@@ -46,3 +47,17 @@
 - ⚡ Fun fact: I love to eat, sleep, and write a program
 
 # 😊Connect with me
+
+<a href="https://x.com/sugarkouga926">
+<img src="https://img.shields.io/twitter/url?label=@sugarkouga926&style=social&url=https%3A%2F%2Ftwitter.com" alt="@sugarkouga926"></img>
+</a>
+<a href="https://leetcode.com/u/Kouga926/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=" alt="LeetCode Profile"></img>
+</a>
+<a href="https://atcoder.jp/users/SKouga?contestType=algo">
+<img src="https://img.shields.io/badge/AtCoder-SKouga-red?style=flat" alt="AtCoder Profile" />
+</a>
+
+
+
+
