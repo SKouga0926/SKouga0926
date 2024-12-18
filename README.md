@@ -47,16 +47,10 @@
 - ⚡ Fun fact: I love to eat, sleep, and write a program
 
 # 😊Connect with me
+[![@sugarkouga926](https://img.shields.io/twitter/url?label=@sugarkouga926&style=social&url=https%3A%2F%2Ftwitter.com)](https://x.com/sugarkouga926)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=)](https://leetcode.com/u/Kouga926/)
+[![AtCoder Profile](https://img.shields.io/badge/AtCoder-@SKouga-red?style=flat)](https://atcoder.jp/users/SKouga?contestType=algo)
 
-<a href="https://x.com/sugarkouga926">
-<img src="https://img.shields.io/twitter/url?label=@sugarkouga926&style=social&url=https%3A%2F%2Ftwitter.com" alt="@sugarkouga926"></img>
-</a>
-<a href="https://leetcode.com/u/Kouga926/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=" alt="LeetCode Profile"></img>
-</a>
-<a href="https://atcoder.jp/users/SKouga?contestType=algo">
-<img src="https://img.shields.io/badge/AtCoder-SKouga-red?style=flat" alt="AtCoder Profile" />
-</a>
 
 
 
