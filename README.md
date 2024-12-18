@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat"></img>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&style=flat&logoColor=white"></img>
 <img src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&&style=flat&logoColor=white"></img>
-<img src="https://img.shields.io/badge/tensorflow-keras-orange&style=flat"></img>
+<img src="https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-pandas-%23150458.svg?logo=pandas&style=flat"></img>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&style=flatlogoColor=white"></img>
 <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python"></img>
@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/></img>
 <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat"></img>
 <img src="https://img.shields.io/badge/-Gitlab-E24329.svg?logo=gitlab&style=flat&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black">
 
 # 😎About Me:
 - 💻 I'm a National Institute of Technology Student
@@ -51,6 +52,7 @@
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=)](https://leetcode.com/u/Kouga926/)
 [![AtCoder Profile](https://img.shields.io/badge/AtCoder-@SKouga-red?style=flat)](https://atcoder.jp/users/SKouga?contestType=algo)
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
 
 
 
