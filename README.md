@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/-pandas-%23150458.svg?logo=pandas&style=flat"></img>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&style=flatlogoColor=white"></img>
 <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python"></img>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white"></img>
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&style=flat"></img>
 <img src="https://img.shields.io/badge/-MySQL-000000.svg?logo=mysql&style=flat"></img>
 
@@ -43,6 +44,7 @@
 # 😎About Me:
 - 💻 I'm a National Institute of Technology Student
 - 💪 I hope I would be an AI Engineer
+- 🌟 Experienced in NLP through an internship
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🏆 "3rd Place Winner at DCON 2024" as Team Leader
 - ⚡ Fun fact: I love to eat, sleep, and write a program
